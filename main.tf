@@ -1,4 +1,4 @@
-resource "google_storage_bucket" "bkt-ghevents-jfuentes" {
+resource "google_storage_bucket" "bkt-jfuentes14102025-19860201" {
   name                     = "bkt-demo-001"
   location                 = "us-central1"
   project                  = "project-001-jfuentes"
