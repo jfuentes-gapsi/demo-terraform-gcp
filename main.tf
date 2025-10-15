@@ -14,7 +14,7 @@ provider "google" {
 }
 
 resource "google_storage_bucket" "bkt-jfuentes14102025-003" {
-  name                     = "bkt-demo-001"
+  name                     = "bkt-demo-001-jfuentes"
   location                 = "EU"
   force_destroy            = true
   public_access_prevention = "enforced"
